@@ -1,5 +1,5 @@
 CC = clang
-CFLAGS = -g -Wall -std=c99
+CFLAGS = -g -Wall
 # main executable file first
 TARGET = proj02
 # object files next
